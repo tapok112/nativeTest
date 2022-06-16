@@ -1,5 +1,4 @@
 import { create } from 'apisauce';
-import { useSelector } from 'react-redux';
 
 export const mainURL = create({
   baseURL: 'https://lzone.secret-agents.ru/api/v2'
